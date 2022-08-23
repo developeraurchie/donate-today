@@ -36,7 +36,7 @@
 .link-button {
     position: absolute;
 
-    background-color: tomato;
+    background-color: salmon;
     top: 67%;
     left: 44%;
     margin: 10px 10px;
@@ -49,6 +49,90 @@
     font-size: 20px;
     font-weight: bold;
     color: #fff;
+
+
+}
+
+/* 2nd section Donate today....................................................................................................... */
+.Donate-today h2 {
+    text-align: center;
+    padding-top: 3%;
+    font-size: 40px;
+}
+
+.Donate-today p {
+    color: rgb(99, 96, 96);
+    text-align: center;
+    padding: 10px;
+}
+
+.box h2 {
+    width: 100px;
+    height: 60px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    padding-top: 26px;
+    border-radius: 10px;
+
+
+    background: rgb(247, 245, 245);
+
+}
+
+.box h3 {
+    width: 100px;
+    height: 60px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    padding-top: 26px;
+    border-radius: 10px;
+    font-size: 40px;
+
+    background: rgb(250, 218, 218);
+
+}
+
+.dollar-box {
+    display: flex;
     align-items: center;
+    justify-content: space-evenly;
+    margin: 20px 280px;
+}
+
+#dollar {
+    border-radius: 10px;
+    border: 2px solid red;
+
+}
+
+.Donate-today h4 {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 1%;
+    color: rgb(206, 204, 204)
+}
+
+hr {
+    width: 56%;
+    margin-left: 22%;
+}
+
+.link-button-two {
+    position: absolute;
+    background-color: salmon;
+    top: 161%;
+    left: 44%;
+    padding: 15px 20px;
+    margin: 10px 9px;
+    border-radius: 10px;
+}
+
+.link-button-two a {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
 
 }
