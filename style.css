@@ -1,0 +1,54 @@
+/* header section */
+.top-banner {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.top-banner {
+    background-image: url(images/donation13.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.banner-text {
+    margin: 0px;
+}
+
+.top-banner h1 {
+    font-size: 50px;
+    text-align: center;
+    padding-top: 15%;
+    color: #fff;
+    margin: 0;
+}
+
+.top-banner p {
+    text-align: center;
+    color: #fff;
+    padding: 10px;
+
+}
+
+.link-button {
+    position: absolute;
+
+    background-color: tomato;
+    top: 67%;
+    left: 44%;
+    margin: 10px 10px;
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+
+.link-button a {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    align-items: center;
+
+}
