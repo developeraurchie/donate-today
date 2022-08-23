@@ -179,3 +179,67 @@ hr {
 #p2 {
     background: rgb(195, 249, 226);
 }
+
+/* 4rth section Update Form */
+
+.update-form h2 {
+    text-align: center;
+    padding-top: 3%;
+    font-size: 40px;
+}
+
+.update-form p {
+    color: rgb(99, 96, 96);
+    text-align: center;
+    padding: 10px;
+    margin: 14px;
+}
+
+.mail {
+    width: 451px;
+    height: 127px;
+    background: #f7fec6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 30px;
+    margin-left: 30%;
+    margin-bottom: 10%;
+    border-radius: 10px;
+}
+
+.m1 {
+    /* padding: 10px 116px; */
+    margin: 0px;
+    background-color: rgb(213, 210, 210);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 150px;
+    margin-left: 0;
+    text-align: left;
+
+}
+
+.m1 a {
+    color: rgb(160, 158, 158);
+    text-decoration: none;
+    padding-left: 0;
+    margin-left: 0;
+    text-align: left;
+}
+
+.sub {
+    padding: 10px 28px;
+    margin: 0px;
+    background-color: red;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.sub a {
+    text-decoration: none;
+    color: #fff;
+}
